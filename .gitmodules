@@ -1,0 +1,3 @@
+[submodule "external/strideparser"]
+	path = external/strideparser
+	url = https://github.com/StrideLang/strideparser.git

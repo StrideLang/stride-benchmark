@@ -1,0 +1,13 @@
+# Game Configuration Benchmark Dataset
+gameConfig Config {
+    gameTitle: "Starfleet Command"
+    version: "1.4.0"
+    maxPlayers: 8
+    tickRateHz: 60
+    allowSpectators: on
+    difficultyMultiplier: 1.25
+    serverRegion: "us-east-1"
+    resolution: [ 2560, 1440 ]
+    renderDistance: 1200
+    enableHDR: on
+}

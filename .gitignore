@@ -1,0 +1,13 @@
+build/
+bin/
+lib/
+out/
+.vs/
+.vscode/
+*.user
+CMakeSettings.json
+*.dir/
+*.log
+*.ninja
+*.ilk
+*.pdb

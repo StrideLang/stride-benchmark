@@ -1,0 +1,1707 @@
+{
+  "worldSector": {
+    "name": "Sector_entities",
+    "units": [
+      {
+        "id": 1,
+        "name": "Hero_warrior_1",
+        "role": "warrior",
+        "health": 100,
+        "mana": 50.0,
+        "isAlive": false,
+        "position": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "inventory": [
+          "item_1_a",
+          "item_1_b"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hero_mage_2",
+        "role": "mage",
+        "health": 107,
+        "mana": 53.5,
+        "isAlive": true,
+        "position": [
+          12.34,
+          56.78,
+          2.5
+        ],
+        "inventory": [
+          "item_2_a",
+          "item_2_b"
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Hero_ranger_3",
+        "role": "ranger",
+        "health": 114,
+        "mana": 57.0,
+        "isAlive": true,
+        "position": [
+          24.68,
+          113.56,
+          5.0
+        ],
+        "inventory": [
+          "item_3_a",
+          "item_3_b"
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Hero_paladin_4",
+        "role": "paladin",
+        "health": 121,
+        "mana": 60.5,
+        "isAlive": true,
+        "position": [
+          37.02,
+          170.34,
+          7.5
+        ],
+        "inventory": [
+          "item_4_a",
+          "item_4_b"
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hero_rogue_5",
+        "role": "rogue",
+        "health": 128,
+        "mana": 64.0,
+        "isAlive": true,
+        "position": [
+          49.36,
+          227.12,
+          10.0
+        ],
+        "inventory": [
+          "item_5_a",
+          "item_5_b"
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Hero_warrior_6",
+        "role": "warrior",
+        "health": 135,
+        "mana": 67.5,
+        "isAlive": true,
+        "position": [
+          61.7,
+          283.9,
+          12.5
+        ],
+        "inventory": [
+          "item_6_a",
+          "item_6_b"
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Hero_mage_7",
+        "role": "mage",
+        "health": 142,
+        "mana": 71.0,
+        "isAlive": true,
+        "position": [
+          74.04,
+          340.68,
+          15.0
+        ],
+        "inventory": [
+          "item_7_a",
+          "item_7_b"
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Hero_ranger_8",
+        "role": "ranger",
+        "health": 149,
+        "mana": 74.5,
+        "isAlive": true,
+        "position": [
+          86.38,
+          397.46,
+          17.5
+        ],
+        "inventory": [
+          "item_8_a",
+          "item_8_b"
+        ]
+      },
+      {
+        "id": 9,
+        "name": "Hero_paladin_9",
+        "role": "paladin",
+        "health": 156,
+        "mana": 78.0,
+        "isAlive": true,
+        "position": [
+          98.72,
+          454.24,
+          20.0
+        ],
+        "inventory": [
+          "item_9_a",
+          "item_9_b"
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Hero_rogue_10",
+        "role": "rogue",
+        "health": 163,
+        "mana": 81.5,
+        "isAlive": true,
+        "position": [
+          111.06,
+          511.02,
+          22.5
+        ],
+        "inventory": [
+          "item_10_a",
+          "item_10_b"
+        ]
+      },
+      {
+        "id": 11,
+        "name": "Hero_warrior_11",
+        "role": "warrior",
+        "health": 170,
+        "mana": 85.0,
+        "isAlive": false,
+        "position": [
+          123.4,
+          567.8,
+          25.0
+        ],
+        "inventory": [
+          "item_11_a",
+          "item_11_b"
+        ]
+      },
+      {
+        "id": 12,
+        "name": "Hero_mage_12",
+        "role": "mage",
+        "health": 177,
+        "mana": 88.5,
+        "isAlive": true,
+        "position": [
+          135.74,
+          624.58,
+          27.5
+        ],
+        "inventory": [
+          "item_12_a",
+          "item_12_b"
+        ]
+      },
+      {
+        "id": 13,
+        "name": "Hero_ranger_13",
+        "role": "ranger",
+        "health": 184,
+        "mana": 92.0,
+        "isAlive": true,
+        "position": [
+          148.08,
+          681.36,
+          30.0
+        ],
+        "inventory": [
+          "item_13_a",
+          "item_13_b"
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Hero_paladin_14",
+        "role": "paladin",
+        "health": 191,
+        "mana": 95.5,
+        "isAlive": true,
+        "position": [
+          160.42,
+          738.14,
+          32.5
+        ],
+        "inventory": [
+          "item_14_a",
+          "item_14_b"
+        ]
+      },
+      {
+        "id": 15,
+        "name": "Hero_rogue_15",
+        "role": "rogue",
+        "health": 198,
+        "mana": 99.0,
+        "isAlive": true,
+        "position": [
+          172.76,
+          794.92,
+          35.0
+        ],
+        "inventory": [
+          "item_15_a",
+          "item_15_b"
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Hero_warrior_16",
+        "role": "warrior",
+        "health": 205,
+        "mana": 102.5,
+        "isAlive": true,
+        "position": [
+          185.1,
+          851.7,
+          37.5
+        ],
+        "inventory": [
+          "item_16_a",
+          "item_16_b"
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Hero_mage_17",
+        "role": "mage",
+        "health": 212,
+        "mana": 106.0,
+        "isAlive": true,
+        "position": [
+          197.44,
+          908.48,
+          40.0
+        ],
+        "inventory": [
+          "item_17_a",
+          "item_17_b"
+        ]
+      },
+      {
+        "id": 18,
+        "name": "Hero_ranger_18",
+        "role": "ranger",
+        "health": 219,
+        "mana": 109.5,
+        "isAlive": true,
+        "position": [
+          209.78,
+          965.26,
+          42.5
+        ],
+        "inventory": [
+          "item_18_a",
+          "item_18_b"
+        ]
+      },
+      {
+        "id": 19,
+        "name": "Hero_paladin_19",
+        "role": "paladin",
+        "health": 226,
+        "mana": 113.0,
+        "isAlive": true,
+        "position": [
+          222.12,
+          22.04,
+          45.0
+        ],
+        "inventory": [
+          "item_19_a",
+          "item_19_b"
+        ]
+      },
+      {
+        "id": 20,
+        "name": "Hero_rogue_20",
+        "role": "rogue",
+        "health": 233,
+        "mana": 116.5,
+        "isAlive": true,
+        "position": [
+          234.46,
+          78.82,
+          47.5
+        ],
+        "inventory": [
+          "item_20_a",
+          "item_20_b"
+        ]
+      },
+      {
+        "id": 21,
+        "name": "Hero_warrior_21",
+        "role": "warrior",
+        "health": 240,
+        "mana": 120.0,
+        "isAlive": false,
+        "position": [
+          246.8,
+          135.6,
+          50.0
+        ],
+        "inventory": [
+          "item_21_a",
+          "item_21_b"
+        ]
+      },
+      {
+        "id": 22,
+        "name": "Hero_mage_22",
+        "role": "mage",
+        "health": 247,
+        "mana": 123.5,
+        "isAlive": true,
+        "position": [
+          259.14,
+          192.38,
+          52.5
+        ],
+        "inventory": [
+          "item_22_a",
+          "item_22_b"
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Hero_ranger_23",
+        "role": "ranger",
+        "health": 254,
+        "mana": 127.0,
+        "isAlive": true,
+        "position": [
+          271.48,
+          249.16,
+          55.0
+        ],
+        "inventory": [
+          "item_23_a",
+          "item_23_b"
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Hero_paladin_24",
+        "role": "paladin",
+        "health": 261,
+        "mana": 130.5,
+        "isAlive": true,
+        "position": [
+          283.82,
+          305.94,
+          57.5
+        ],
+        "inventory": [
+          "item_24_a",
+          "item_24_b"
+        ]
+      },
+      {
+        "id": 25,
+        "name": "Hero_rogue_25",
+        "role": "rogue",
+        "health": 268,
+        "mana": 134.0,
+        "isAlive": true,
+        "position": [
+          296.16,
+          362.72,
+          60.0
+        ],
+        "inventory": [
+          "item_25_a",
+          "item_25_b"
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Hero_warrior_26",
+        "role": "warrior",
+        "health": 275,
+        "mana": 137.5,
+        "isAlive": true,
+        "position": [
+          308.5,
+          419.5,
+          62.5
+        ],
+        "inventory": [
+          "item_26_a",
+          "item_26_b"
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Hero_mage_27",
+        "role": "mage",
+        "health": 282,
+        "mana": 141.0,
+        "isAlive": true,
+        "position": [
+          320.84,
+          476.28,
+          65.0
+        ],
+        "inventory": [
+          "item_27_a",
+          "item_27_b"
+        ]
+      },
+      {
+        "id": 28,
+        "name": "Hero_ranger_28",
+        "role": "ranger",
+        "health": 289,
+        "mana": 144.5,
+        "isAlive": true,
+        "position": [
+          333.18,
+          533.06,
+          67.5
+        ],
+        "inventory": [
+          "item_28_a",
+          "item_28_b"
+        ]
+      },
+      {
+        "id": 29,
+        "name": "Hero_paladin_29",
+        "role": "paladin",
+        "health": 296,
+        "mana": 148.0,
+        "isAlive": true,
+        "position": [
+          345.52,
+          589.84,
+          70.0
+        ],
+        "inventory": [
+          "item_29_a",
+          "item_29_b"
+        ]
+      },
+      {
+        "id": 30,
+        "name": "Hero_rogue_30",
+        "role": "rogue",
+        "health": 303,
+        "mana": 151.5,
+        "isAlive": true,
+        "position": [
+          357.86,
+          646.62,
+          72.5
+        ],
+        "inventory": [
+          "item_30_a",
+          "item_30_b"
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Hero_warrior_31",
+        "role": "warrior",
+        "health": 310,
+        "mana": 155.0,
+        "isAlive": false,
+        "position": [
+          370.2,
+          703.4,
+          75.0
+        ],
+        "inventory": [
+          "item_31_a",
+          "item_31_b"
+        ]
+      },
+      {
+        "id": 32,
+        "name": "Hero_mage_32",
+        "role": "mage",
+        "health": 317,
+        "mana": 158.5,
+        "isAlive": true,
+        "position": [
+          382.54,
+          760.18,
+          77.5
+        ],
+        "inventory": [
+          "item_32_a",
+          "item_32_b"
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Hero_ranger_33",
+        "role": "ranger",
+        "health": 324,
+        "mana": 162.0,
+        "isAlive": true,
+        "position": [
+          394.88,
+          816.96,
+          80.0
+        ],
+        "inventory": [
+          "item_33_a",
+          "item_33_b"
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Hero_paladin_34",
+        "role": "paladin",
+        "health": 331,
+        "mana": 165.5,
+        "isAlive": true,
+        "position": [
+          407.22,
+          873.74,
+          82.5
+        ],
+        "inventory": [
+          "item_34_a",
+          "item_34_b"
+        ]
+      },
+      {
+        "id": 35,
+        "name": "Hero_rogue_35",
+        "role": "rogue",
+        "health": 338,
+        "mana": 169.0,
+        "isAlive": true,
+        "position": [
+          419.56,
+          930.52,
+          85.0
+        ],
+        "inventory": [
+          "item_35_a",
+          "item_35_b"
+        ]
+      },
+      {
+        "id": 36,
+        "name": "Hero_warrior_36",
+        "role": "warrior",
+        "health": 345,
+        "mana": 172.5,
+        "isAlive": true,
+        "position": [
+          431.9,
+          987.3,
+          87.5
+        ],
+        "inventory": [
+          "item_36_a",
+          "item_36_b"
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Hero_mage_37",
+        "role": "mage",
+        "health": 352,
+        "mana": 176.0,
+        "isAlive": true,
+        "position": [
+          444.24,
+          44.08,
+          90.0
+        ],
+        "inventory": [
+          "item_37_a",
+          "item_37_b"
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Hero_ranger_38",
+        "role": "ranger",
+        "health": 359,
+        "mana": 179.5,
+        "isAlive": true,
+        "position": [
+          456.58,
+          100.86,
+          92.5
+        ],
+        "inventory": [
+          "item_38_a",
+          "item_38_b"
+        ]
+      },
+      {
+        "id": 39,
+        "name": "Hero_paladin_39",
+        "role": "paladin",
+        "health": 366,
+        "mana": 183.0,
+        "isAlive": true,
+        "position": [
+          468.92,
+          157.64,
+          95.0
+        ],
+        "inventory": [
+          "item_39_a",
+          "item_39_b"
+        ]
+      },
+      {
+        "id": 40,
+        "name": "Hero_rogue_40",
+        "role": "rogue",
+        "health": 373,
+        "mana": 186.5,
+        "isAlive": true,
+        "position": [
+          481.26,
+          214.42,
+          97.5
+        ],
+        "inventory": [
+          "item_40_a",
+          "item_40_b"
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Hero_warrior_41",
+        "role": "warrior",
+        "health": 380,
+        "mana": 190.0,
+        "isAlive": false,
+        "position": [
+          493.6,
+          271.2,
+          0.0
+        ],
+        "inventory": [
+          "item_41_a",
+          "item_41_b"
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Hero_mage_42",
+        "role": "mage",
+        "health": 387,
+        "mana": 193.5,
+        "isAlive": true,
+        "position": [
+          505.94,
+          327.98,
+          2.5
+        ],
+        "inventory": [
+          "item_42_a",
+          "item_42_b"
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Hero_ranger_43",
+        "role": "ranger",
+        "health": 394,
+        "mana": 197.0,
+        "isAlive": true,
+        "position": [
+          518.28,
+          384.76,
+          5.0
+        ],
+        "inventory": [
+          "item_43_a",
+          "item_43_b"
+        ]
+      },
+      {
+        "id": 44,
+        "name": "Hero_paladin_44",
+        "role": "paladin",
+        "health": 401,
+        "mana": 50.5,
+        "isAlive": true,
+        "position": [
+          530.62,
+          441.54,
+          7.5
+        ],
+        "inventory": [
+          "item_44_a",
+          "item_44_b"
+        ]
+      },
+      {
+        "id": 45,
+        "name": "Hero_rogue_45",
+        "role": "rogue",
+        "health": 408,
+        "mana": 54.0,
+        "isAlive": true,
+        "position": [
+          542.96,
+          498.32,
+          10.0
+        ],
+        "inventory": [
+          "item_45_a",
+          "item_45_b"
+        ]
+      },
+      {
+        "id": 46,
+        "name": "Hero_warrior_46",
+        "role": "warrior",
+        "health": 415,
+        "mana": 57.5,
+        "isAlive": true,
+        "position": [
+          555.3,
+          555.1,
+          12.5
+        ],
+        "inventory": [
+          "item_46_a",
+          "item_46_b"
+        ]
+      },
+      {
+        "id": 47,
+        "name": "Hero_mage_47",
+        "role": "mage",
+        "health": 422,
+        "mana": 61.0,
+        "isAlive": true,
+        "position": [
+          567.64,
+          611.88,
+          15.0
+        ],
+        "inventory": [
+          "item_47_a",
+          "item_47_b"
+        ]
+      },
+      {
+        "id": 48,
+        "name": "Hero_ranger_48",
+        "role": "ranger",
+        "health": 429,
+        "mana": 64.5,
+        "isAlive": true,
+        "position": [
+          579.98,
+          668.66,
+          17.5
+        ],
+        "inventory": [
+          "item_48_a",
+          "item_48_b"
+        ]
+      },
+      {
+        "id": 49,
+        "name": "Hero_paladin_49",
+        "role": "paladin",
+        "health": 436,
+        "mana": 68.0,
+        "isAlive": true,
+        "position": [
+          592.32,
+          725.44,
+          20.0
+        ],
+        "inventory": [
+          "item_49_a",
+          "item_49_b"
+        ]
+      },
+      {
+        "id": 50,
+        "name": "Hero_rogue_50",
+        "role": "rogue",
+        "health": 443,
+        "mana": 71.5,
+        "isAlive": true,
+        "position": [
+          604.66,
+          782.22,
+          22.5
+        ],
+        "inventory": [
+          "item_50_a",
+          "item_50_b"
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Hero_warrior_51",
+        "role": "warrior",
+        "health": 450,
+        "mana": 75.0,
+        "isAlive": false,
+        "position": [
+          617.0,
+          839.0,
+          25.0
+        ],
+        "inventory": [
+          "item_51_a",
+          "item_51_b"
+        ]
+      },
+      {
+        "id": 52,
+        "name": "Hero_mage_52",
+        "role": "mage",
+        "health": 457,
+        "mana": 78.5,
+        "isAlive": true,
+        "position": [
+          629.34,
+          895.78,
+          27.5
+        ],
+        "inventory": [
+          "item_52_a",
+          "item_52_b"
+        ]
+      },
+      {
+        "id": 53,
+        "name": "Hero_ranger_53",
+        "role": "ranger",
+        "health": 464,
+        "mana": 82.0,
+        "isAlive": true,
+        "position": [
+          641.68,
+          952.56,
+          30.0
+        ],
+        "inventory": [
+          "item_53_a",
+          "item_53_b"
+        ]
+      },
+      {
+        "id": 54,
+        "name": "Hero_paladin_54",
+        "role": "paladin",
+        "health": 471,
+        "mana": 85.5,
+        "isAlive": true,
+        "position": [
+          654.02,
+          9.34,
+          32.5
+        ],
+        "inventory": [
+          "item_54_a",
+          "item_54_b"
+        ]
+      },
+      {
+        "id": 55,
+        "name": "Hero_rogue_55",
+        "role": "rogue",
+        "health": 478,
+        "mana": 89.0,
+        "isAlive": true,
+        "position": [
+          666.36,
+          66.12,
+          35.0
+        ],
+        "inventory": [
+          "item_55_a",
+          "item_55_b"
+        ]
+      },
+      {
+        "id": 56,
+        "name": "Hero_warrior_56",
+        "role": "warrior",
+        "health": 485,
+        "mana": 92.5,
+        "isAlive": true,
+        "position": [
+          678.7,
+          122.9,
+          37.5
+        ],
+        "inventory": [
+          "item_56_a",
+          "item_56_b"
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Hero_mage_57",
+        "role": "mage",
+        "health": 492,
+        "mana": 96.0,
+        "isAlive": true,
+        "position": [
+          691.04,
+          179.68,
+          40.0
+        ],
+        "inventory": [
+          "item_57_a",
+          "item_57_b"
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Hero_ranger_58",
+        "role": "ranger",
+        "health": 499,
+        "mana": 99.5,
+        "isAlive": true,
+        "position": [
+          703.38,
+          236.46,
+          42.5
+        ],
+        "inventory": [
+          "item_58_a",
+          "item_58_b"
+        ]
+      },
+      {
+        "id": 59,
+        "name": "Hero_paladin_59",
+        "role": "paladin",
+        "health": 506,
+        "mana": 103.0,
+        "isAlive": true,
+        "position": [
+          715.72,
+          293.24,
+          45.0
+        ],
+        "inventory": [
+          "item_59_a",
+          "item_59_b"
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Hero_rogue_60",
+        "role": "rogue",
+        "health": 513,
+        "mana": 106.5,
+        "isAlive": true,
+        "position": [
+          728.06,
+          350.02,
+          47.5
+        ],
+        "inventory": [
+          "item_60_a",
+          "item_60_b"
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Hero_warrior_61",
+        "role": "warrior",
+        "health": 520,
+        "mana": 110.0,
+        "isAlive": false,
+        "position": [
+          740.4,
+          406.8,
+          50.0
+        ],
+        "inventory": [
+          "item_61_a",
+          "item_61_b"
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Hero_mage_62",
+        "role": "mage",
+        "health": 527,
+        "mana": 113.5,
+        "isAlive": true,
+        "position": [
+          752.74,
+          463.58,
+          52.5
+        ],
+        "inventory": [
+          "item_62_a",
+          "item_62_b"
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Hero_ranger_63",
+        "role": "ranger",
+        "health": 534,
+        "mana": 117.0,
+        "isAlive": true,
+        "position": [
+          765.08,
+          520.36,
+          55.0
+        ],
+        "inventory": [
+          "item_63_a",
+          "item_63_b"
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Hero_paladin_64",
+        "role": "paladin",
+        "health": 541,
+        "mana": 120.5,
+        "isAlive": true,
+        "position": [
+          777.42,
+          577.14,
+          57.5
+        ],
+        "inventory": [
+          "item_64_a",
+          "item_64_b"
+        ]
+      },
+      {
+        "id": 65,
+        "name": "Hero_rogue_65",
+        "role": "rogue",
+        "health": 548,
+        "mana": 124.0,
+        "isAlive": true,
+        "position": [
+          789.76,
+          633.92,
+          60.0
+        ],
+        "inventory": [
+          "item_65_a",
+          "item_65_b"
+        ]
+      },
+      {
+        "id": 66,
+        "name": "Hero_warrior_66",
+        "role": "warrior",
+        "health": 555,
+        "mana": 127.5,
+        "isAlive": true,
+        "position": [
+          802.1,
+          690.7,
+          62.5
+        ],
+        "inventory": [
+          "item_66_a",
+          "item_66_b"
+        ]
+      },
+      {
+        "id": 67,
+        "name": "Hero_mage_67",
+        "role": "mage",
+        "health": 562,
+        "mana": 131.0,
+        "isAlive": true,
+        "position": [
+          814.44,
+          747.48,
+          65.0
+        ],
+        "inventory": [
+          "item_67_a",
+          "item_67_b"
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Hero_ranger_68",
+        "role": "ranger",
+        "health": 569,
+        "mana": 134.5,
+        "isAlive": true,
+        "position": [
+          826.78,
+          804.26,
+          67.5
+        ],
+        "inventory": [
+          "item_68_a",
+          "item_68_b"
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Hero_paladin_69",
+        "role": "paladin",
+        "health": 576,
+        "mana": 138.0,
+        "isAlive": true,
+        "position": [
+          839.12,
+          861.04,
+          70.0
+        ],
+        "inventory": [
+          "item_69_a",
+          "item_69_b"
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Hero_rogue_70",
+        "role": "rogue",
+        "health": 583,
+        "mana": 141.5,
+        "isAlive": true,
+        "position": [
+          851.46,
+          917.82,
+          72.5
+        ],
+        "inventory": [
+          "item_70_a",
+          "item_70_b"
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Hero_warrior_71",
+        "role": "warrior",
+        "health": 590,
+        "mana": 145.0,
+        "isAlive": false,
+        "position": [
+          863.8,
+          974.6,
+          75.0
+        ],
+        "inventory": [
+          "item_71_a",
+          "item_71_b"
+        ]
+      },
+      {
+        "id": 72,
+        "name": "Hero_mage_72",
+        "role": "mage",
+        "health": 597,
+        "mana": 148.5,
+        "isAlive": true,
+        "position": [
+          876.14,
+          31.38,
+          77.5
+        ],
+        "inventory": [
+          "item_72_a",
+          "item_72_b"
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Hero_ranger_73",
+        "role": "ranger",
+        "health": 104,
+        "mana": 152.0,
+        "isAlive": true,
+        "position": [
+          888.48,
+          88.16,
+          80.0
+        ],
+        "inventory": [
+          "item_73_a",
+          "item_73_b"
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Hero_paladin_74",
+        "role": "paladin",
+        "health": 111,
+        "mana": 155.5,
+        "isAlive": true,
+        "position": [
+          900.82,
+          144.94,
+          82.5
+        ],
+        "inventory": [
+          "item_74_a",
+          "item_74_b"
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Hero_rogue_75",
+        "role": "rogue",
+        "health": 118,
+        "mana": 159.0,
+        "isAlive": true,
+        "position": [
+          913.16,
+          201.72,
+          85.0
+        ],
+        "inventory": [
+          "item_75_a",
+          "item_75_b"
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Hero_warrior_76",
+        "role": "warrior",
+        "health": 125,
+        "mana": 162.5,
+        "isAlive": true,
+        "position": [
+          925.5,
+          258.5,
+          87.5
+        ],
+        "inventory": [
+          "item_76_a",
+          "item_76_b"
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Hero_mage_77",
+        "role": "mage",
+        "health": 132,
+        "mana": 166.0,
+        "isAlive": true,
+        "position": [
+          937.84,
+          315.28,
+          90.0
+        ],
+        "inventory": [
+          "item_77_a",
+          "item_77_b"
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Hero_ranger_78",
+        "role": "ranger",
+        "health": 139,
+        "mana": 169.5,
+        "isAlive": true,
+        "position": [
+          950.18,
+          372.06,
+          92.5
+        ],
+        "inventory": [
+          "item_78_a",
+          "item_78_b"
+        ]
+      },
+      {
+        "id": 79,
+        "name": "Hero_paladin_79",
+        "role": "paladin",
+        "health": 146,
+        "mana": 173.0,
+        "isAlive": true,
+        "position": [
+          962.52,
+          428.84,
+          95.0
+        ],
+        "inventory": [
+          "item_79_a",
+          "item_79_b"
+        ]
+      },
+      {
+        "id": 80,
+        "name": "Hero_rogue_80",
+        "role": "rogue",
+        "health": 153,
+        "mana": 176.5,
+        "isAlive": true,
+        "position": [
+          974.86,
+          485.62,
+          97.5
+        ],
+        "inventory": [
+          "item_80_a",
+          "item_80_b"
+        ]
+      },
+      {
+        "id": 81,
+        "name": "Hero_warrior_81",
+        "role": "warrior",
+        "health": 160,
+        "mana": 180.0,
+        "isAlive": false,
+        "position": [
+          987.2,
+          542.4,
+          0.0
+        ],
+        "inventory": [
+          "item_81_a",
+          "item_81_b"
+        ]
+      },
+      {
+        "id": 82,
+        "name": "Hero_mage_82",
+        "role": "mage",
+        "health": 167,
+        "mana": 183.5,
+        "isAlive": true,
+        "position": [
+          999.54,
+          599.18,
+          2.5
+        ],
+        "inventory": [
+          "item_82_a",
+          "item_82_b"
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Hero_ranger_83",
+        "role": "ranger",
+        "health": 174,
+        "mana": 187.0,
+        "isAlive": true,
+        "position": [
+          11.88,
+          655.96,
+          5.0
+        ],
+        "inventory": [
+          "item_83_a",
+          "item_83_b"
+        ]
+      },
+      {
+        "id": 84,
+        "name": "Hero_paladin_84",
+        "role": "paladin",
+        "health": 181,
+        "mana": 190.5,
+        "isAlive": true,
+        "position": [
+          24.22,
+          712.74,
+          7.5
+        ],
+        "inventory": [
+          "item_84_a",
+          "item_84_b"
+        ]
+      },
+      {
+        "id": 85,
+        "name": "Hero_rogue_85",
+        "role": "rogue",
+        "health": 188,
+        "mana": 194.0,
+        "isAlive": true,
+        "position": [
+          36.56,
+          769.52,
+          10.0
+        ],
+        "inventory": [
+          "item_85_a",
+          "item_85_b"
+        ]
+      },
+      {
+        "id": 86,
+        "name": "Hero_warrior_86",
+        "role": "warrior",
+        "health": 195,
+        "mana": 197.5,
+        "isAlive": true,
+        "position": [
+          48.9,
+          826.3,
+          12.5
+        ],
+        "inventory": [
+          "item_86_a",
+          "item_86_b"
+        ]
+      },
+      {
+        "id": 87,
+        "name": "Hero_mage_87",
+        "role": "mage",
+        "health": 202,
+        "mana": 51.0,
+        "isAlive": true,
+        "position": [
+          61.24,
+          883.08,
+          15.0
+        ],
+        "inventory": [
+          "item_87_a",
+          "item_87_b"
+        ]
+      },
+      {
+        "id": 88,
+        "name": "Hero_ranger_88",
+        "role": "ranger",
+        "health": 209,
+        "mana": 54.5,
+        "isAlive": true,
+        "position": [
+          73.58,
+          939.86,
+          17.5
+        ],
+        "inventory": [
+          "item_88_a",
+          "item_88_b"
+        ]
+      },
+      {
+        "id": 89,
+        "name": "Hero_paladin_89",
+        "role": "paladin",
+        "health": 216,
+        "mana": 58.0,
+        "isAlive": true,
+        "position": [
+          85.92,
+          996.64,
+          20.0
+        ],
+        "inventory": [
+          "item_89_a",
+          "item_89_b"
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Hero_rogue_90",
+        "role": "rogue",
+        "health": 223,
+        "mana": 61.5,
+        "isAlive": true,
+        "position": [
+          98.26,
+          53.42,
+          22.5
+        ],
+        "inventory": [
+          "item_90_a",
+          "item_90_b"
+        ]
+      },
+      {
+        "id": 91,
+        "name": "Hero_warrior_91",
+        "role": "warrior",
+        "health": 230,
+        "mana": 65.0,
+        "isAlive": false,
+        "position": [
+          110.6,
+          110.2,
+          25.0
+        ],
+        "inventory": [
+          "item_91_a",
+          "item_91_b"
+        ]
+      },
+      {
+        "id": 92,
+        "name": "Hero_mage_92",
+        "role": "mage",
+        "health": 237,
+        "mana": 68.5,
+        "isAlive": true,
+        "position": [
+          122.94,
+          166.98,
+          27.5
+        ],
+        "inventory": [
+          "item_92_a",
+          "item_92_b"
+        ]
+      },
+      {
+        "id": 93,
+        "name": "Hero_ranger_93",
+        "role": "ranger",
+        "health": 244,
+        "mana": 72.0,
+        "isAlive": true,
+        "position": [
+          135.28,
+          223.76,
+          30.0
+        ],
+        "inventory": [
+          "item_93_a",
+          "item_93_b"
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Hero_paladin_94",
+        "role": "paladin",
+        "health": 251,
+        "mana": 75.5,
+        "isAlive": true,
+        "position": [
+          147.62,
+          280.54,
+          32.5
+        ],
+        "inventory": [
+          "item_94_a",
+          "item_94_b"
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Hero_rogue_95",
+        "role": "rogue",
+        "health": 258,
+        "mana": 79.0,
+        "isAlive": true,
+        "position": [
+          159.96,
+          337.32,
+          35.0
+        ],
+        "inventory": [
+          "item_95_a",
+          "item_95_b"
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Hero_warrior_96",
+        "role": "warrior",
+        "health": 265,
+        "mana": 82.5,
+        "isAlive": true,
+        "position": [
+          172.3,
+          394.1,
+          37.5
+        ],
+        "inventory": [
+          "item_96_a",
+          "item_96_b"
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Hero_mage_97",
+        "role": "mage",
+        "health": 272,
+        "mana": 86.0,
+        "isAlive": true,
+        "position": [
+          184.64,
+          450.88,
+          40.0
+        ],
+        "inventory": [
+          "item_97_a",
+          "item_97_b"
+        ]
+      },
+      {
+        "id": 98,
+        "name": "Hero_ranger_98",
+        "role": "ranger",
+        "health": 279,
+        "mana": 89.5,
+        "isAlive": true,
+        "position": [
+          196.98,
+          507.66,
+          42.5
+        ],
+        "inventory": [
+          "item_98_a",
+          "item_98_b"
+        ]
+      },
+      {
+        "id": 99,
+        "name": "Hero_paladin_99",
+        "role": "paladin",
+        "health": 286,
+        "mana": 93.0,
+        "isAlive": true,
+        "position": [
+          209.32,
+          564.44,
+          45.0
+        ],
+        "inventory": [
+          "item_99_a",
+          "item_99_b"
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Hero_rogue_100",
+        "role": "rogue",
+        "health": 293,
+        "mana": 96.5,
+        "isAlive": true,
+        "position": [
+          221.66,
+          621.22,
+          47.5
+        ],
+        "inventory": [
+          "item_100_a",
+          "item_100_b"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "levelSection_0": {
+    "depth": 0,
+    "name": "DepthLevel_0",
+    "nested": {
+      "levelSection_1": {
+        "depth": 1,
+        "name": "DepthLevel_1",
+        "nested": {
+          "levelSection_2": {
+            "depth": 2,
+            "name": "DepthLevel_2",
+            "nested": {
+              "levelSection_3": {
+                "depth": 3,
+                "name": "DepthLevel_3",
+                "nested": {
+                  "levelSection_4": {
+                    "depth": 4,
+                    "name": "DepthLevel_4",
+                    "nested": {
+                      "levelSection_5": {
+                        "depth": 5,
+                        "name": "DepthLevel_5",
+                        "nested": {
+                          "levelSection_6": {
+                            "depth": 6,
+                            "name": "DepthLevel_6",
+                            "nested": {
+                              "levelSection_7": {
+                                "depth": 7,
+                                "name": "DepthLevel_7",
+                                "nested": {
+                                  "levelSection_8": {
+                                    "depth": 8,
+                                    "name": "DepthLevel_8",
+                                    "nested": {
+                                      "levelSection_9": {
+                                        "depth": 9,
+                                        "name": "DepthLevel_9",
+                                        "nested": {
+                                          "levelSection_10": {
+                                            "depth": 10,
+                                            "name": "DepthLevel_10",
+                                            "nested": {
+                                              "levelSection_11": {
+                                                "depth": 11,
+                                                "name": "DepthLevel_11",
+                                                "nested": {
+                                                  "levelSection_12": {
+                                                    "depth": 12,
+                                                    "name": "DepthLevel_12",
+                                                    "nested": {
+                                                      "levelSection_13": {
+                                                        "depth": 13,
+                                                        "name": "DepthLevel_13",
+                                                        "nested": {
+                                                          "levelSection_14": {
+                                                            "depth": 14,
+                                                            "name": "DepthLevel_14",
+                                                            "nested": {
+                                                              "levelSection_15": {
+                                                                "depth": 15,
+                                                                "name": "DepthLevel_15",
+                                                                "nested": {
+                                                                  "levelSection_16": {
+                                                                    "depth": 16,
+                                                                    "name": "DepthLevel_16",
+                                                                    "nested": {
+                                                                      "levelSection_17": {
+                                                                        "depth": 17,
+                                                                        "name": "DepthLevel_17",
+                                                                        "nested": {
+                                                                          "levelSection_18": {
+                                                                            "depth": 18,
+                                                                            "name": "DepthLevel_18",
+                                                                            "nested": {
+                                                                              "levelSection_19": {
+                                                                                "depth": 19,
+                                                                                "name": "DepthLevel_19",
+                                                                                "payload": "deepest_node"
+                                                                              }
+                                                                            }
+                                                                          }
+                                                                        }
+                                                                      }
+                                                                    }
+                                                                  }
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
